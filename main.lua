@@ -1,7 +1,7 @@
 function love.load()
     circle = {}
     circle.x = 0
-    circle.y = 100
+    circle.y = 200
 end
 
 function love.update(dt)
